@@ -1,7 +1,7 @@
 // zorg ervoor dat onderstaande code werkt (ZONDER DEZE CODE AAN TE PASSEN)
 // uiteraard moet je hier een extra bestand aanmaken
 
-const dier = require("./huisdier");
+const dier = require("./huisdier.js");
 
 const woef = dier.Huisdier("hond", "woef", 3);
 
